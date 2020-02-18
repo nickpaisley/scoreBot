@@ -13,7 +13,7 @@ time.sleep(5)
 driver.find_element_by_tag_name('body').send_keys('s') 
 
 # Set your desired score for the typing game
-desiredScore = 1300
+desiredScore = 303
 
 # Once the game has started this loop grabs the randomCharcter to type and enters it. The desiredScore is
 # how many times this loop will run. Each loop adds a score of 1. So 303 loops will give a score of 303. 
