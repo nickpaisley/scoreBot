@@ -4,7 +4,7 @@ This is a Python/Selenium script that will load James Quick's typing game page a
 
 *Usage* 
 
-Edit the `desiredScore` variable to whatever score you would like and execute. 
+Edit the `desiredScore` variable to the score you would like and execute. 
 
 
 
